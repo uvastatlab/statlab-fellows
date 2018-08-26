@@ -6,10 +6,10 @@ Fellows will be working across the StatLab portfolio this year, contributing to 
  
 * For Data for Democracy: Fellows will have the opportunity to deepen their knowledge of quantitative methods, data analysis and data science, and statistical computation by working collaboratively on a public interest data science project, contributing intellectually and methodologically; practicing open and reproducible data science workflows using tools like R, Python, GitHub, and Overleaf; communicating about the work through blog posts, research articles, and presentations.
  
- ## Responsibilities
+ ## Responsibilities during fellowship year
  
  * Hosting open office hours for walk-in support
  * Joining, and leading, consultations with UVA researchers
  * Contributing to the Public Presidency project, or related research threads
- * Writing a StatLab or Data for Democracy blog posts each semester fall
+ * Writing a StatLab or Data for Democracy blog posts each semester 
  * Teaching a StatLab workshop in the spring
