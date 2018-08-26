@@ -11,4 +11,5 @@ Fellows will be working across the StatLab portfolio this year, contributing to 
  * Hosting open office hours for walk-in support
  * Joining, and leading, consultations with UVA researchers
  * Contributing to the Public Presidency project, or related research threads
- * Writing a StatLab blog post in the fall, teaching a StatLab workshop in the spring
+ * Writing a StatLab or Data for Democracy blog posts each semester fall
+ * Teaching a StatLab workshop in the spring
