@@ -1,6 +1,6 @@
 # StatLab/Data for Democracy Fellows
 
-Fellows will be working across the StatLab portfolio this year, contributing to our data analytics consultatino and training and advancing the Data for Democracy Public Presidency project.
+Fellows will be working across the StatLab portfolio this year, contributing to our data analytics consultation and training and advancing the Data for Democracy Public Presidency project.
 
 * For Data Analytics: Fellows will deepen their knowledge of quantitative methods, data analysis and data science, and statistical computation by working collaboratively with statistical and data science experts, supporting data science research on grounds through consultations with researchers across disciplinary boundaries, writing online instructional materials and articles, and developing and teaching an instructional workshop.
  
