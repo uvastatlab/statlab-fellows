@@ -13,3 +13,4 @@ Fellows will be working across the StatLab portfolio this year, contributing to 
  * Contributing to the Public Presidency project, or related research threads
  * Writing a StatLab or Data for Democracy blog posts each semester 
  * Teaching a StatLab workshop in the spring
+ * Attending weekly lab meeting, submitting weekly update to GitHub
