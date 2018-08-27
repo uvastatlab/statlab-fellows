@@ -10,6 +10,6 @@
 
 ### Up next
 
-* Get set up on GitHub; for statlab-fellows repo; 
+* Get set up on GitHub; fork statlab-fellows repo; 
 * Fork publicpresidency repo and start reviewing code
 * Finalize office hours for semester (begin this week or next)
