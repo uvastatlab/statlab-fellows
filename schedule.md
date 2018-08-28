@@ -17,3 +17,5 @@
 * Finalize office hours for semester
   * Send an email to statlab-fellows list by Friday
   * We'll aim to start office hours next week (first week of September)
+* Weekly lab meeting is scheduled for Wednesday as 1
+  * I think I have room 145 reserved (not the glass-windowed conference room, but a smaller room across from it)
