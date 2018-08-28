@@ -8,7 +8,7 @@
 
 ### First time only
 
-1. In GitHub, fork the repository, https://github.com/datafordemocracy/publicpresidency, to your own github account and go to the forked repository; click on "Clone or Download" and copy the repository URL to the clipboard.
+1. In GitHub, fork the repository, https://github.com/uvastatlab/statlab-fellows, to your own github account and go to the forked repository; click on "Clone or Download" and copy the repository URL to the clipboard.
 
 2. In the terminal, navigate to your local directory (where you want the repository to live)
 
@@ -19,20 +19,20 @@ $ cd "box sync/mpc/datafordemocracy/" # this will be different for you
 3. Clone the repository locally
 
 ```sh
-$ git clone https://github.com/mclaibourn/publicpresidency.git # use your GitHub name/url
+$ git clone https://github.com/mclaibourn/statlab-fellows.git # use your GitHub name/url
 ```
 
 4. Navigate to the new repository
 
 ```sh
-$ cd publicpresidency
+$ cd statlab-fellows
 ```
 
 5. Tell git about the source repository [(more here)](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
 
 ```sh
 $ git remote -v # initially only your forked repository should be listed
-$ git remote add datademo https://github.com/datafordemocracy/publicpresidency.git # datademo is a name we provided to reference the source repository
+$ git remote add fellows https://github.com/uvastatlaby/statlab-fellows.git # datademo is a name we provided to reference the source repository
 $ git remote -v # verify
 ```
 
@@ -43,16 +43,16 @@ Before adding changes from the repository on your local machine to the forked re
 
 1. In the terminal, navigate to your local directory
 
-2. Fetch the contents of the source repository, datademo. so you're starting with the most recent version
+2. Fetch the contents of the source repository, fellows. so you're starting with the most recent version
 
 ```sh
-$ git fetch datademo
+$ git fetch fellows
 ```
 
-3. Merge the changes from datademo/master into your local master branch
+3. Merge the changes from fellows/master into your local master branch
 
 ```sh
-$ git merge datademo/master # this brings your fork's master branch (working directory) in sync with the source repository's master branch)
+$ git merge fellows/master # this brings your fork's master branch (working directory) in sync with the source repository's master branch)
 ```
 
 4. Your local copy of the repository is updated; now update your fork on GitHub
@@ -81,7 +81,7 @@ $ git add [file]
 $ git commit -m "[add commit message]"
 ```
 
-4. Sync your local files with the source repository (again) and push these to your forked repository on GitHub.
+4. Sync your local files with the source repository (in case something in the source repo has changed in the meantime) and push the updates to your forked repository on GitHub.
 
 ### Syncing local files with source repository (alternative method)
 
@@ -106,12 +106,12 @@ $ git commit -m <insert commit message>
 3. Working with pull
 
 Now you have your changes in the local branch called dev. You need to find a way to sync our local repository to
-datademo. Inorder to do this and avoid merge conflicts, you need sync your local master with remote ( datademo )  and merge your changes ( on branch dev )
+fellows. In order to do this and avoid merge conflicts, you need to sync your local master with remote (fellows) and merge your changes (on branch dev)
 on top of it
 
 ```sh
 $ git checkout master # switch to branch master
-$ git pull datademo master # Pull all changes to branch master
+$ git pull fellows master # Pull all changes to branch master
 ```
 At this point, your repository looks something like this:
 
