@@ -99,7 +99,7 @@ You can use --all to commit all changes at once if there are multiple changes.
 ```sh
 $ git push origin master
 ```
-5. Then create a pull request following steps 1-3 in "Make a pull request" below.
+5. Then create a pull request following steps 1-3 in ["Make a pull request"](#pull) below.
 
 
 ### Syncing local files with source repository (alternative method)
@@ -148,7 +148,7 @@ $ git commit -m "Your new commit name"
 $ git push origin master  # This will push changes to the forked repository
 ```
 
-### Make a pull request
+<a name="pull">### Make a pull request</a>
 When you want to add the changes from your forked repository on GitHub to the source repository
 
 1. From the forked repository on your GitHub click "New pull request" (this will send you to the source repository)
