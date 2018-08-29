@@ -67,10 +67,9 @@ For some files, e.g, markdown/text files like the weekly updates, it's simpler t
 
 1. Click edit button on the file page; make changes
 2. Click "commit changes" button -- GitHub will provide a default title, but you can change this and add description if you like
-3. Click "pull request" tab, and click "new pull request" button -- this will take you to the source repository
-4. Click "create pull request" button -- you can add a new title or comments -- then click "create pull request" again
+3. Create a pull request following steps 1-3 in "Make a pull request" below
 
-Once the pull request has been merged GitHub will send you a notification. Sync the source repo with your local repo (on your computer) following the steps 1-3 above.
+Once the pull request has been merged GitHub will send you a notification. You should sync the source repo with your local repo (on your computer) following the steps 1-3 above to ensure your changes are reflected in all three locations.
 
 
 ### Working with/changing files on your local repo (on your computer)
@@ -100,7 +99,8 @@ You can use --all to commit all changes at once if there are multiple changes.
 ```sh
 $ git push origin master
 ```
-5. Then create a pull request 
+5. Then create a pull request following steps 1-3 in "Make a pull request" below.
+
 
 ### Syncing local files with source repository (alternative method)
 
@@ -151,11 +151,12 @@ $ git push origin master  # This will push changes to the forked repository
 ### Make a pull request
 When you want to add the changes from your forked repository on GitHub to the source repository
 
-1. From the forked repository on your GitHub click "New pull request" (this will sned you to the source repository)
+1. From the forked repository on your GitHub click "New pull request" (this will send you to the source repository)
 
 2. In "compare across forks", the base fork is the original source repository, the head fork is your fork
 
-3. Give your request a title and description and "Create pull request"
+3. Give your request a title and description and click "Create pull request"
+
 
 ## Some useful links
 
