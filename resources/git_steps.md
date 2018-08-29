@@ -148,7 +148,8 @@ $ git commit -m "Your new commit name"
 $ git push origin master  # This will push changes to the forked repository
 ```
 
-<a name="pull">### Make a pull request</a>
+<a name="pull"></a>
+### Make a pull request
 When you want to add the changes from your forked repository on GitHub to the source repository
 
 1. From the forked repository on your GitHub click "New pull request" (this will send you to the source repository)
