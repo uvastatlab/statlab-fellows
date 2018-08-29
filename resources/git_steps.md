@@ -67,7 +67,7 @@ For some files, e.g, markdown/text files like the weekly updates, it's simpler t
 
 1. Click edit button on the file page; make changes
 2. Click "commit changes" button -- GitHub will provide a default title, but you can change this and add description if you like
-3. Create a pull request following steps 1-3 in "Make a pull request" below
+3. Create a pull request following steps 1-3 in ["Make a pull request"](#pull) below
 
 Once the pull request has been merged GitHub will send you a notification. You should sync the source repo with your local repo (on your computer) following the steps 1-3 above to ensure your changes are reflected in all three locations.
 
