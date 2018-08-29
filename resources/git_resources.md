@@ -2,7 +2,7 @@ We can add more links to useful resources (on GitHub and related tools) as we co
 
 ## GitHub Tutorial
 * [GitHub's guide](https://guides.github.com/activities/hello-world/)
-* [Karl Broman's tutorial](http://kbroman.org/github_tutorial/) is one of my favorites
+* [Karl Broman's tutorial](http://kbroman.org/github_tutorial/) is one of my favorites, especially his explanation of setting up ssh
 * [Udacity tutorial](https://blog.udacity.com/2015/06/a-beginners-git-github-tutorial.html)
 
 ## More on Git
