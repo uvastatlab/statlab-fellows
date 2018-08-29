@@ -32,7 +32,7 @@ $ cd statlab-fellows
 
 ```sh
 $ git remote -v # initially only your forked repository should be listed
-$ git remote add fellows https://github.com/uvastatlaby/statlab-fellows.git # datademo is a name we provided to reference the source repository
+$ git remote add upstream https://github.com/uvastatlaby/statlab-fellows.git # "upstream" is a name we provided to reference the source repository
 $ git remote -v # verify
 ```
 
@@ -46,13 +46,13 @@ Before adding changes from the repository on your local machine to the forked re
 2. Fetch the contents of the source repository, fellows. so you're starting with the most recent version
 
 ```sh
-$ git fetch fellows
+$ git fetch upstream
 ```
 
-3. Merge the changes from fellows/master into your local master branch
+3. Merge the changes from upstream/master into your local master branch
 
 ```sh
-$ git merge fellows/master # this brings your fork's master branch (working directory) in sync with the source repository's master branch)
+$ git merge upstream/master # this brings your fork's master branch (working directory) in sync with the source repository's master branch)
 ```
 
 4. Your local copy of the repository is updated; now update your fork on GitHub
@@ -74,7 +74,7 @@ $ git status
 $ git diff # show file differences; use q to exit results
 ```
 
-3. Stage files for commit, then commit
+3. Stage files for commit, then commit (you can use --all to commit all changes at once)
 
 ```sh
 $ git add [file]
@@ -96,7 +96,7 @@ $ git branch dev  # This will create a branch called dev
 $ git checkout dev # This will switch to the branch called dev instead of master
 
 ```
-2. Now that you have a branch, edit your files in your branch ( whatever code changes you want to make ) and stage it
+2. Now that you have a branch, edit your files in your branch (whatever code changes you want to make) and stage it
 
 ```sh
 $ git add 'files you edited and you want to include'
@@ -106,12 +106,12 @@ $ git commit -m <insert commit message>
 3. Working with pull
 
 Now you have your changes in the local branch called dev. You need to find a way to sync our local repository to
-fellows. In order to do this and avoid merge conflicts, you need to sync your local master with remote (fellows) and merge your changes (on branch dev)
+upstream. In order to do this and avoid merge conflicts, you need to sync your local master with remote (upstream) and merge your changes (on branch dev)
 on top of it
 
 ```sh
 $ git checkout master # switch to branch master
-$ git pull fellows master # Pull all changes to branch master
+$ git pull upstream master # Pull all changes to branch master
 ```
 At this point, your repository looks something like this:
 
@@ -132,9 +132,9 @@ $ git push origin master  # This will push changes to the forked repository
 ### Make a pull request
 When you want to add the changes from your forked repository on GitHub to the source repository
 
-1. Go to source repository on GitHub and click "New pull request"
+1. From the forked repository on your GitHub click "New pull request" (this will sned you to the source repository)
 
-2. On the compare page, click "compare across forks"; the base fork is the original source repository, the head fork is your fork
+2. In "compare across forks", the base fork is the original source repository, the head fork is your fork
 
 3. Give your request a title and description and "Create pull request"
 
