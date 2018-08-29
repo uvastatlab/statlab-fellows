@@ -95,7 +95,12 @@ $ git commit -m "[add commit message]"
 
 You can use --all to commit all changes at once if there are multiple changes.
 
-4. Sync your local files with the source repository (in case something in the source repo has changed in the meantime) and push the updates to your forked repository on GitHub.
+4. Push these changes to your forked repo
+
+```sh
+$ git push origin master
+```
+5. Then create a pull request 
 
 ### Syncing local files with source repository (alternative method)
 
