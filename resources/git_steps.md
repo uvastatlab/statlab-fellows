@@ -61,11 +61,23 @@ $ git merge upstream/master # this brings your fork's master branch (working dir
 $ git push origin master # pushes the name on your local machine (origin) to a branch on your GitHub page (master)
 ```
 
-### Working with local files
+### Working with/changing files in the forked GitHub repositry
 
-Make changes to the forked repository on your local machine; when you're ready, commit those changes to your local repository and push these to your forked repository on GitHub.
+For some files, e.g, markdown/text files like the weekly updates, it's simpler to make the changes within GitHub.
 
-1. In the terminal, navigate to your local directory
+1. Click edit button on the file page; make changes
+2. Click "commit changes" button -- GitHub will provide a default title, but you can change this and add description if you like
+3. Click "pull request" tab, and click "new pull request" button -- this will take you to the source repository
+4. Click "create pull request" button -- you can add a new title or comments -- then click "create pull request" again
+
+Once the pull request has been merged GitHub will send you a notification. Sync the source repo with your local repo (on your computer) following the steps 1-3 above.
+
+
+### Working with/changing files on your local repo (on your computer)
+
+In most cases, e.g., making changes to code, you'll make changes on your local machine first. When you're ready, commit those changes to your local repository, push these to your forked repository on GitHub, and create pull request to merge them into the source repository.
+
+1. Once you're satisfied with changes, open the terminal/bash and navigate to your local directory
 
 2. List new or modified files available to be committed
 
@@ -74,12 +86,14 @@ $ git status
 $ git diff # show file differences; use q to exit results
 ```
 
-3. Stage files for commit, then commit (you can use --all to commit all changes at once)
+3. Stage files for commit, then commit 
 
 ```sh
 $ git add [file]
 $ git commit -m "[add commit message]"
 ```
+
+You can use --all to commit all changes at once if there are multiple changes.
 
 4. Sync your local files with the source repository (in case something in the source repo has changed in the meantime) and push the updates to your forked repository on GitHub.
 
