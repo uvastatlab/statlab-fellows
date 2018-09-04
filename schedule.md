@@ -7,6 +7,7 @@
 * Update on public presidency project (15 m)
 * Overview of consultation procedures (moved to next week)
 * Set weekly meeting time, tour space, keys, form, time sheet, office hours (20 m)
+Trying making changes on Git text files
 
 ### Up next
 
