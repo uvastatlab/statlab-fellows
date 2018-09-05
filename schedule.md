@@ -3,8 +3,9 @@
 ## September 5, 2018
 ### Meeting
 
+* Finalize office hours (5)
 * Overview of consultation process (15)
-* Review GitHub process (15) 
+* Review GitHub process (10) 
 * Public presidency review: what made sense or didn't, areas for clarification, potential directions (30)
 
 ### Up next
