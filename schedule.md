@@ -3,15 +3,16 @@
 ## September 5, 2018
 ### Meeting
 
-* Finalize office hours (5)
+* Finalize office hours (5) 
 * Overview of consultation process (15)
 * Review GitHub process (10) 
 * Public presidency review: what made sense or didn't, areas for clarification, potential directions (30)
 
 ### Up next
 
-* Office hours!
+* Office hours next week! Aycan - Wed 10-12; Wed 2:30-4:30; Leah - Tue 2:30-4:30 
 * Background reading for some element of project
+* MC/CF - add OH to webpage/calendar
 
 ## August 27, 2018
 ### Meeting
