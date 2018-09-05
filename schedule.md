@@ -1,5 +1,17 @@
 # Weekly Agenda and Schedule
 
+## September 5, 2018
+### Meeting
+
+* Overview of consultation process (15)
+* Review GitHub process (15) 
+* Public presidency review: what made sense or didn't, areas for clarification, potential directions (30)
+
+### Up next
+
+* Office hours!
+* Background reading for some element of project
+
 ## August 27, 2018
 ### Meeting
 
