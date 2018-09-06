@@ -9,8 +9,8 @@ The quanteda guides and examples are a good start both for learning the function
 ## Sentiment analysis
 
 * [Nice overview](https://monkeylearn.com/sentiment-analysis/) of main approaches
-* [SentimentR](https://github.com/trinker/sentimentr), for a variation on the lexicon-based approach
-* [Application](http://journals.sagepub.com/doi/abs/10.1177/0002716215569217) of a variation on the lexicon-based approach moving beyond polarity
+* [SentimentR](https://github.com/trinker/sentimentr), for a variation on the lexicon-based approach incorporating valence shifters
+* [Application](http://journals.sagepub.com/doi/abs/10.1177/0002716215569217) of a variation on the lexicon-based approach moving beyond polarity (positive-negative)
 * [Past workshop](http://static.lib.virginia.edu/statlab/materials/workshops/sentimentMaterials.zip) on sentiment analysis in R
 
 There are other sources I'd point to for the machine learning approach, but as the algorithms are often built on specific corpora (e.g., social media, moview reviews, etc.), generalizability is always a question. Of course, generalizability is in quesiton for lexicons, as well, but lexicons are simpler to adapt for a domain/corpus-type. So let's start there.
