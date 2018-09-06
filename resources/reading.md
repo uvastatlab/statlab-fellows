@@ -8,7 +8,7 @@ The quanteda guides and examples are a good start both for learning the function
 
 ## Sentiment analysis
 
-* [Nice overview](https://monkeylearn.com/sentiment-analysis/) of three main approaches
+* [Nice overview](https://monkeylearn.com/sentiment-analysis/) of main approaches
 * [SentimentR](https://github.com/trinker/sentimentr), for a variation on the lexicon-based approach
 * [Application](http://journals.sagepub.com/doi/abs/10.1177/0002716215569217) of a variation on the lexicon-based approach moving beyond polarity
 * [Past workshop](http://static.lib.virginia.edu/statlab/materials/workshops/sentimentMaterials.zip) on sentiment analysis in R
