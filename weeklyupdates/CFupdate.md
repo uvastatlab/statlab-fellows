@@ -1,3 +1,12 @@
+## 2018-09-10
+* Admin:
+    * Backed up Intro to R workshop. Always interesting to see what confuses new R users. This time someone was confusing objects in her global environment with files in her working directory. Totally understandable if you think about it.
+* Consults:
+    * McIntire faculty; asked for help scraping housing information from the UVa off-Grounds Housing Service web site. Wrote an R script to do this: https://gist.github.com/clayford/3ddaca6b4d4f3d2daf8d9a49c8fbc5a2
+* Research/Learning:
+    * Getting ready for 3 part data wrangling with R workshop series.
+
+
 ## 2018-08-31
 * Admin: fork statlab-fellows and sync public presidency repos; work with MPC to establish GitHub flow
 * Consults: 
