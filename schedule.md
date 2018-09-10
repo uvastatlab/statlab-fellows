@@ -1,5 +1,17 @@
 # Weekly Agenda and Schedule
 
+## September 12, 2018
+### Meeting
+
+* Access to machine in i-043 (and, hopefully, I'll have the final key)
+* StatLab posts/articles -- discussion/ideas
+* Public presidency -- questions, angles to pursue
+
+### Up next
+
+* Send in two blog post ideas
+* Project: TBD
+
 ## September 5, 2018
 ### Meeting
 
