@@ -9,8 +9,8 @@
 
 ### Up next
 
-* Send in two blog post ideas
-* Project: TBD
+* StatLab: Scan through some StatLab articles, add one or two ideas for topics in next update
+* Project: Michele will post some semi-discrete tasks later in the week for followup
 
 ## September 5, 2018
 ### Meeting
