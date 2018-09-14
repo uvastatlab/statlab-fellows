@@ -5,7 +5,7 @@ In the shared Box folder, you can find the files containing the downloaded news 
 * Run `exploreNews.R` and look for words, phrases that need to be normalized across the three newspapers. For instance, `readNews.R` already makes a few changes like changing F.B.I in the NYT to FBI to match the WSJ, or trying to change the appearance of U.S. in the WSJ to United States to match the NYT. But I suspect the current clean up isn't sufficient either because not everything worked and there are more phrases and abbreviations specific to a news source. We need another set of eyes to start capturing these so we can beef up and correct the reading/cleaning file.
 * Create a new version of `complexityNews.R` using sentences as unit (e.g., `complexityNews_sent.R`: this should start with the same data object that `complexityNews.R` uses, but first reshape `qcorpus2` to sentences. It should create a new metadata data frame like `qmeta2` (e.g., `qmeta2_sent <- docvars(qcorpus2_sent`) and add the complexity/readability score to the dataframe.
 * Create version of `sentimentNews.R` using sentences as unit: as above, this should start with the saem data object that `sentimentNews.R` uses (ideally, it would start with the saved data object from `complexityNews_sent.R`, but that's not created yet -- we can sequence them later), but will need to reshape `qcorpus2` to sentences. And this, too, should create a new metadata frame like `qmeta2` and add the various sentiment scores to the dataframe.
-* To be added: ran out of time; will include improvements to topic model script, working through issue rhetoric identification
+* *To be added:* ran out of time; will include improvements to topic model script, working through issue rhetoric identification
 
 ## Additional Sources
 
@@ -13,13 +13,13 @@ In the shared Box folder, you can find the files containing the downloaded news 
 
 ## Cable News
 
-* To be added: ran out of time; will include reviewing topictiling, validating initial results (e.g., against Vanderbilt News Archive's story count for Anderson Cooper, other ways?), figure out how to containerize the process (via singularity) to run on the cluster. 
+* *To be added:* ran out of time; will include reviewing topictiling, validating initial results (e.g., against Vanderbilt News Archive's story count for Anderson Cooper, other ways?), figure out how to containerize the process (via singularity) to run on the cluster. 
 
 ## Tweets
 
-* To be added: ran out of time
+* *To be added:* ran out of time
 
 ## Presidential Documents
 
-* To be added: ran out of time
+* *To be added:* ran out of time
 
