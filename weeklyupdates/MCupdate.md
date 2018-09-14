@@ -1,3 +1,8 @@
+## 2018-09-14
+* Admin: added tasks to repo; backed up Clay's workshop and Ricky's workshop; moved my Text Analysis part 2 and 3 workshops; scraped the public comments from [Ours to Shape](https://ourstoshape.virginia.edu/) site for text workshop.
+* Consults: one short consult after Clay's workshop
+* Research: Update Twitter and Presidential documents through August 2018, cable news through August 2018, and WP, NYT, wSJ through August 2018. Added some formatting to and re-ran (only using articles through July 31, 2018) readNews.R, exploreNews.R, created complexityNews.R (pulled from past exploreNews.R), and sentimentNews.R.
+
 ## 2018-09-07
 * Admin: added resources to statlab-fellows (quanteda, sentiment), sent initial workshop emails and procedural reminders to staff
 * Consults: none, though worked with arch students on regional equity atlas projects on which I'm collaborating
