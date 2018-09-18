@@ -10,7 +10,7 @@
 
 ### Up next
 
-* Work on chosen task
+* TBA
 
 ## September 12, 2018
 ### Meeting
