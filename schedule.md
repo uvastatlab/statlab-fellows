@@ -1,5 +1,17 @@
 # Weekly Agenda and Schedule
 
+## September 19, 2018
+### Meeting
+
+* Quick review of weekly update process
+* Settle on first project task
+* Share and discuss blog article ideas, select one
+* Consult debrief (if time)
+
+### Up next
+
+* Work on chosen task
+
 ## September 12, 2018
 ### Meeting
 
