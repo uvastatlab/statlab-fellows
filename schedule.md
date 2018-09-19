@@ -10,7 +10,8 @@
 
 ### Up next
 
-* TBA
+* Work on assigned task and/or start on blog/article
+* MPC will add to project_tasks and fill out codeR/readme
 
 ## September 12, 2018
 ### Meeting
