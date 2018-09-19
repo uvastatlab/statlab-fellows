@@ -1,7 +1,27 @@
+
+## 2018-09-19
+* Consultations: 
+    * Commerce faculty; meeting to review and revise off-grounds housing web-scraping script to make it more robust to various departures from expected text. Made significant revisions to script.
+    * Nursing PhD candidate; help merging date and time columns and formatting as date-time class. 
+    * Staff, Emergency Medicine Research Office (EMRO); Trying to use the document-term matrix for association/cluster analysis. Suggested looking into topic-modeling at first but then realized cluster analysis might be better for what he wanted. Pointed to him some resources to help get him started. 
+    * Grad student, Civil Engineering; Research involves using two types of neural networks to forecast groundwater level. Wanted to select better model. Suggested that instead of a t-test of the RMSEs between the two models that he take the difference in the 1000 RMSEs from the two models and analyze the distribution of differences with percentile/BCa intervals.
+    * Undergrad, A&S; Needed some help understanding Excel instructions in a class assignment. Confused about how to use Excel to take a random sample from a sample frame.
+* Research/Learning: 
+    * final preparations for DWR part 3 workshop
+    * Getting familiar with ggplot2 version 3 and seeing if there's anything of note to incorporate into my upcoming workshop
+* StatLab article ideas (just some ideas off the top of my head! No guarantees!):
+    * A primer/intro on using Stata's margin commands (possibly a series of articles)
+    * A primer/intro on replicating the results of Stata's margin commands in R (possibly a series of articles)
+    * Getting started with rate models
+    * Getting started with CFA
+    * Boostrapping basics with examples
+    * Tips and strategies for simulating data in R
+
+
 ## 2018-09-10
 * Admin:
     * Backed up Intro to R workshop. Always interesting to see what confuses new R users. This time someone was confusing objects in her global environment with files in her working directory. Totally understandable if you think about it.
-* Consults:
+* Consultations:
     * McIntire faculty; asked for help scraping housing information from the UVa off-Grounds Housing Service web site. Wrote an R script to do this: https://gist.github.com/clayford/3ddaca6b4d4f3d2daf8d9a49c8fbc5a2
 * Research/Learning:
     * Getting ready for 3 part data wrangling with R workshop series.
@@ -9,7 +29,7 @@
 
 ## 2018-08-31
 * Admin: fork statlab-fellows and sync public presidency repos; work with MPC to establish GitHub flow
-* Consults: 
+* Consultations: 
     * Darden PhD candidate; help selecting, implementing and interpreting statistical analyses for his dissertation. 
     * Econ PhD; had some survey data she collected and noticed that a particular response seemed to depend on who asked the question. Suggested she run a mixed-effect model to control for the variation between survey administrators.
     * surgery resident; has data on vascular surgeries, wants to investigate whether or not certain medications are helpful post-surgery. Data is in Excel, has imported to Stata, wants help cleaning data in Stata. Data is restricted and requires access to a server. He could not access server or even get on Internet while in Brown. (I’ve noticed this a lot with medical employees.) Referred him to Data@HSL.
