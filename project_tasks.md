@@ -9,10 +9,12 @@ In the shared Box folder, you can find the files containing the downloaded news 
   * Leah
 * Create a new version of `complexityNews.R` using sentences as unit (e.g., `complexityNews_sent.R`: this should start with the same data object that `complexityNews.R` uses, but first reshape `qcorpus2` to sentences. It should create a new metadata data frame like `qmeta2` (e.g., `qmeta2_sent <- docvars(qcorpus2_sent`) and add the complexity/readability score to the dataframe.
 * Create version of `sentimentNews.R` using sentences as unit: as above, this should start with the saem data object that `sentimentNews.R` uses (ideally, it would start with the saved data object from `complexityNews_sent.R`, but that's not created yet -- we can sequence them later), but will need to reshape `qcorpus2` to sentences. And this, too, should create a new metadata frame like `qmeta2` and add the various sentiment scores to the dataframe.
-* *To be added:* ran out of time; will include improvements to topic model script, working through issue rhetoric identification
 
   * Sofia
 
+* To be added:* ran out of time; will include improvements to topic model script, working through issue rhetoric identification
+
+  
 ## Additional Sources
 
 * Look into possibility of scraping key internet news sites on right and left. First need to identify/justify what are key native digital news sites on right/left; e.g., Politico, Breitbart, or something else, selected by audience size/ideological center. May or may not be able to acquire from January 20, 2017 on, but could we at least set up something going forward?
