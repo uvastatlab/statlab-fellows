@@ -1,7 +1,7 @@
 ## 2018-09-21
 * Admin: work with Charlotte to clean up PIDL2018 github for child welfare report; made slight revision to child welfare report before it goes to city council; added to project_tasks on repo; added reference articles to resources for new project_tasks items.
 * Consults: Holly/Sarah for equity atlas, architecture student groups for equity atlas.
-* Researh: added readme file to codeR to provide basic description of each files purpose, inputs, and outputs.
+* Research: added readme file to codeR to provide basic description of each files purpose, inputs, and outputs.
 
 ## 2018-09-14
 * Admin: added tasks to repo; backed up Clay's workshop and Ricky's workshop; moved my Text Analysis part 2 and 3 workshops; scraped the public comments from [Ours to Shape](https://ourstoshape.virginia.edu/) site for text workshop.
