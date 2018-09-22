@@ -1,5 +1,5 @@
 ## 2018-09-21
-* Admin: work with Charlotte to clean up PIDL2018 github for child welfare report
+* Admin: work with Charlotte to clean up PIDL2018 github for child welfare report; added to project_tasks on repo.
 * Consults: Holly/Sarah for equity atlas, architecture student groups for equity atlas
 * Researh: added readme file to codeR to provide basic description of each files purpose, inputs, and outputs.
 
