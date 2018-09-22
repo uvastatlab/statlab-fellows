@@ -11,11 +11,17 @@ In the shared Box folder, you can find the files containing the downloaded news 
 
   * Sofia
 
-* Create version of `sentimentNews.R` using sentences as unit: as above, this should start with the saem data object that `sentimentNews.R` uses (ideally, it would start with the saved data object from `complexityNews_sent.R`, but that's not created yet -- we can sequence them later), but will need to reshape `qcorpus2` to sentences. And this, too, should create a new metadata frame like `qmeta2` and add the various sentiment scores to the dataframe.
+* Create version of `sentimentNews.R` using sentences as unit (e.g., `sentimentNews_sent.R`); as above, this should start with the same data object that `sentimentNews.R` uses (ideally, it would start with the saved data object from `complexityNews_sent.R`, but if that's not created yet -- we can sequence them later), but will need to reshape `qcorpus2` to sentences. And this, too, should create a new metadata frame like `qmeta2` and add the various sentiment scores to the dataframe.
 
   * Sofia
 
-* To be added:* ran out of time; will include improvements to topic model script, working through issue rhetoric identification
+* Update `sentimentNews.R` and `sentimentNews_sent.R` to try the [Lexicoder Sentiment Dictionary](http://www.lexicoder.com/index.html), implemented in `quanteda` in late 2017 ([see here](https://quanteda.io/reference/data_dictionary_LSD2015.html)). Evaluation of sentiment results generated from lexicoder, sentimentr, and bing dictionaries -- e.g., face validity, do sample articles/sentences scored as highly negative or positive read as such? 
+
+* Generate `policyNews.R` and `policyNews_sent.R` (beginning with output of `sentimentNews.R` and `sentimentNews_sent.R`) to implement policy/issue attention in articles using the Lexicoder Topic Dictionary. Evaluation of results -- e.g., to sample articles/sentences scored highly on major topics appear to be correctly assigned?
+
+* Generate `positionNews.R` and `positionNews_sent.R` to test ideological position of text using Wordfish ([see example here](http://quanteda.io/articles/pkgdown/examples/plotting.html)); and test policy position of text using [Laver and Garry's WordStat dictionary](https://provalisresearch.com/products/content-analysis-software/wordstat-dictionary/laver-garry-dictionary-of-policy-position/), readable into quanteda ([see example here](https://tutorials.quanteda.io/basic-operations/dfm/dfm_lookup/), the laver-garry.cat hyperlink on the example links to the dictionary file). Honestly, I don't expect either of these to work very well -- both have been developed for party platform-style texts, not news (and Laver-Garry dictionary is for UK parties). But evaluation of these results can provide some ideas about how to improve measures in this corpus, and ideological/policy positioning is a key feature in comparison of news treatment (particularly with regard to charges of bias).
+
+* To be added: improvements to topic model script
 
   
 ## Additional Sources
@@ -24,13 +30,13 @@ In the shared Box folder, you can find the files containing the downloaded news 
 
 ## Cable News
 
-* *To be added:* ran out of time; will include reviewing topictiling, validating initial results (e.g., against Vanderbilt News Archive's story count for Anderson Cooper, other ways?), figure out how to containerize the process (via singularity) to run on the cluster. 
+* To be added: ran out of time; will include reviewing topictiling, validating initial results (e.g., against Vanderbilt News Archive's story count for Anderson Cooper, other ways?), figure out how to containerize the process (via singularity) to run on the cluster. 
 
 ## Tweets
 
-* *To be added:* ran out of time
+* To be added: ran out of time
 
 ## Presidential Documents
 
-* *To be added:* ran out of time
+* To be added: ran out of time
 
