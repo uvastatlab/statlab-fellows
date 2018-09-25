@@ -1,3 +1,19 @@
+## 2018-09-25
+* Consultations: 
+    * Master of Science Student, Systems and Information Engineering; help with statistical analysis of experimental data. Had run 10 t-tests after an ANOVA. Suggested using adjusted p-values via Tukey’s pairwise comparisons. Also review how to check ANOVA assumptions.
+    * undergraduate; help installing VMware client for the Hive, and then getting started with Stata on the hive.
+    * EnviSci faculty; has dataset of atmospheric concentrations of numerous gases taken over time and space. Interested in analyzing the different contributions from different emission sources to the total concentrations. For example 50% of the methane concentration is attributed to oil/gas and 50% to rice cultivation. Very challenging consultation, especially since she doesn’t have any training data where she knows the proportion of contributions. 
+    * Curry PhD candidate; seeking advice regarding how to handle missing data for mixed-effect modeling
+    * UVa staff; provided some assistance with estimating power of a randomized complete block design for a given number of blocks.
+
+* Research/Learning: 
+    * Data Wrangling with R, part 2 and part 3 workshops
+    * Review/Revise ggplot workshop
+
+* Admin:
+    * Town Hall meeting
+    * R users meetup
+
 
 ## 2018-09-19
 * Consultations: 
