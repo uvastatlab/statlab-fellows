@@ -21,6 +21,8 @@ In the shared Box folder, you can find the files containing the downloaded news 
 
 * Generate `positionNews.R` and `positionNews_sent.R` to test ideological position of text using Wordfish ([see example here](http://quanteda.io/articles/pkgdown/examples/plotting.html)); and test policy position of text using [Laver and Garry's WordStat dictionary](https://provalisresearch.com/products/content-analysis-software/wordstat-dictionary/laver-garry-dictionary-of-policy-position/), readable into quanteda ([see example here](https://tutorials.quanteda.io/basic-operations/dfm/dfm_lookup/), the laver-garry.cat hyperlink on the example links to the dictionary file). Honestly, I don't expect either of these to work very well -- both have been developed for party platform-style texts, not news (and Laver-Garry dictionary is for UK parties). But evaluation of these results can provide some ideas about how to improve measures in this corpus, and ideological/policy positioning is a key feature in comparison of news treatment (particularly with regard to charges of bias).
 
+* Start named entity extraction process (might be better in Python?)
+
 * To be added: improvements to topic model script
 
   
@@ -30,13 +32,13 @@ In the shared Box folder, you can find the files containing the downloaded news 
 
 ## Cable News
 
-* To be added: ran out of time; will include reviewing topictiling, validating initial results (e.g., against Vanderbilt News Archive's story count for Anderson Cooper, other ways?), figure out how to containerize the process (via singularity) to run on the cluster. 
+* To be added: reviewing topictiling, validating initial results (e.g., against Vanderbilt News Archive's story count for Anderson Cooper, other ways?), figure out how to containerize the process (via singularity) to run on the cluster. 
 
-## Tweets
+## Presidential Documents
 
 * To be added: ran out of time
 
-## Presidential Documents
+## Tweets
 
 * To be added: ran out of time
 
