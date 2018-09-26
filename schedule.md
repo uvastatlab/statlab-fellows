@@ -1,5 +1,13 @@
 # Weekly Agenda and Schedule
 
+## September 26, 2018
+### Meeting
+
+* Project progress
+* Consult debrief
+
+## Up next
+
 ## September 19, 2018
 ### Meeting
 
