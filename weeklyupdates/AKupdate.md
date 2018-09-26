@@ -1,3 +1,9 @@
+09/25
+
+* Learning multiple imputation to prepare for the blog post (I'm doing multiple imputation currently for a paper so I thought I'd start writing the blog in the meanwhile)
+* Learning git branching / commits 
+* Started working on the R code for my task - will look at it closer during the rest of the week
+
 09/14 
  Ideas for blog: 
 Python - 
