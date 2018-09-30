@@ -21,7 +21,7 @@ In the shared Box folder, you can find the files containing the downloaded news 
 
 * Generate `positionNews.R` and `positionNews_sent.R` to test ideological position of text using Wordfish ([see example here](http://quanteda.io/articles/pkgdown/examples/plotting.html)); and test policy position of text using [Laver and Garry's WordStat dictionary](https://provalisresearch.com/products/content-analysis-software/wordstat-dictionary/laver-garry-dictionary-of-policy-position/), readable into quanteda ([see example here](https://tutorials.quanteda.io/basic-operations/dfm/dfm_lookup/), the laver-garry.cat hyperlink on the example links to the dictionary file). Honestly, I don't expect either of these to work very well -- both have been developed for party platform-style texts, not news (and Laver-Garry dictionary is for UK parties). But evaluation of these results can provide some ideas about how to improve measures in this corpus, and ideological/policy positioning is a key feature in comparison of news treatment (particularly with regard to charges of bias).
 
-* Start named entity extraction process (might be better in Python?)
+* Start named entity recognition process (might be better in Python?): in particular, extracting persons, organizations, and geographical or geopolitical entities is key. I'm less clear on how we want to store this -- it won't be as neatly structured as the other attributes extracted from the text so far. But in addition to including this in the larger feature data frame eventually, the entitites also lend themselves to other analytic approaches (e.g., networks).
 
 * To be added: improvements to topic model script
 
@@ -36,7 +36,9 @@ In the shared Box folder, you can find the files containing the downloaded news 
 
 ## Presidential Documents
 
-* To be added: ran out of time
+* To begin, need to separate `analyze_presdoc.R` into an exploratory script (the parts just looking at the text in multiple ways) and a feature extraction script (where features are being added to a document dataframe -- complexity, sentiment, policy/issues, topics, etc.). 
+
+* Once an extraction script is started, consider a sentence or paragraph version to mirror the newspapers (should discuss which makes more sense in this case; unlike the newspaper case where paragraphs are usually one sentence, it could make more difference here).
 
 ## Tweets
 
