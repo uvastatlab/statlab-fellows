@@ -1,3 +1,18 @@
+## 2018-10-02
+* Consultations: 
+    * Politics PhD candidate; Looking for advice getting started with text mining Chinese social media and identifying types of propaganda. Suggested she start with a small collection of text and start working on getting it into R/Python, creating a corpus, creating a TDM, summarizing features of the text, etc to see if she can do what she wants to do. 
+    * Biology grad student; asked about non-parametric 2 way anova. I couldn’t find anything other than a Friedman test, which I don’t think is what he needs. Mentioned that the usual parametric ANOVA is fairly robust to departures from normality and may be fine. Provided some simulations that showed non-normal and heteroscedastic data can be virtually indistinguishable from Normal data from a graphical standpoint (and suitable for ANOVA) but still be rejected by shapiro and levene tests. The point being we should use some judgment before dismissing data as non-normal or having non-constant variability based solely on a hypothesis test. Simulation code here: https://gist.github.com/clayford/dee4efbe5dd9103751a3565a94b164f7
+    * Psych faculty; needed some programming assistance in R. Wanted to automate an R script so it could be run on various data sets and collect the output and plots.
+    * English undergrad; referred to me by Scholars’ Lab. Writing a thesis that explains PCA and asked if I could review for accuracy.
+    * Darden PhD candidate; help reshaping wide data to long. Also help getting started with mixed-effect models.
+    * visiting scholar, Biology; help clean and reshape data and create bar plots of counts and proportions
+
+* Research/Learning: 
+    * Review/Revise ggplot workshop (teach on 2018-10-03)
+    * Review/Revise Bayesian data (teach on 2018-10-18)
+    * Investigate how to use `boxr` and `here` packages in R, potenitally for use with public presidency files
+    * Investigate running obust linear regression with bootstrapped standard errors: https://gist.github.com/clayford/8912972554b8b44b0ff12d69660338c0
+
 ## 2018-09-25
 * Consultations: 
     * Master of Science Student, Systems and Information Engineering; help with statistical analysis of experimental data. Had run 10 t-tests after an ANOVA. Suggested using adjusted p-values via Tukey’s pairwise comparisons. Also review how to check ANOVA assumptions.
