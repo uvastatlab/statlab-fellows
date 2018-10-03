@@ -1,3 +1,10 @@
+## 2018-10-03
+#### Research/ Learning:
+* learning R
+* Started to work on ComplexityNews R files
+#### Blog post
+* started with the research on the blog post topic 
+
 ## 2018-09-25
 #### Consultations
 * Sally: Assitant professor, department of Environmental Sciences, discussion on mixture models to identify different cluster concentrations
