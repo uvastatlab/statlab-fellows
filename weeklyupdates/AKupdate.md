@@ -1,3 +1,8 @@
+10/02
+
+* Working on the R file 
+* Completed a workshop on Git
+
 09/25
 
 * Learning multiple imputation to prepare for the blog post (I'm doing multiple imputation currently for a paper so I thought I'd start writing the blog in the meanwhile)
