@@ -1,3 +1,14 @@
+## 10-03-2018
+* Blog post: 
+   * Using quanteda as a beginner
+   * Using ggplot for a specific purpose
+   
+* Ran exploreNews.R and readNews.R
+   * Wasn't able to find any other abbreviation differences, but "un" and "dot" might need to be differentiated by capitalization. Looked for "USA," "UN," "DOT," "USDA," "POTUS"
+   * Wondering if it's possible to switch from a VCorpus to a PCorpus to speed up compilation?
+   
+* Explanation of other tasks during meeting?
+
 ## 09-15-2018
 * Ideas for blog posts:
   * Similar to Yun Tai's posts, I could provide introductions to importing and using data, reshaping data, and combining data in R
