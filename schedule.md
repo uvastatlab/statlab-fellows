@@ -4,7 +4,7 @@
 ### Meeting
 * Consultations, office hours -- issues?
 * Project progress
-* If tine, background on workshops
+* If time, background on workshops
 
 ### Up next
 
