@@ -5,9 +5,13 @@
 * Consultations, office hours -- issues?
 * Project progress
 * If time, background on workshops
+* make backups of wp, nyt2, wsj
+* download september content when \_new is ready)
 
 ### Up next
-
+* check into pcorpus or vcorpus -- would it be more efficient to use pcorpus, and where to change that in tm.plugin scripts...
+* adopt boxr in scripts we're working on
+* look again for differences in newspaper style (e.g. manuals)
 
 ## September 26, 2018
 ### Meeting
