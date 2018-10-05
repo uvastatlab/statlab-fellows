@@ -7,11 +7,11 @@
 * If time, background on workshops
 
 ### Up next
-* check into pcorpus or vcorpus -- would it be more efficient to use pcorpus, and where to change that in tm.plugin scripts...
-* adopt boxr in scripts we're working on
+* Clay: check into pcorpus or vcorpus -- would it be more efficient to use pcorpus, and where to change that in tm.plugin scripts...
+* All: adopt boxr in scripts we're working on
+* Michele: make backups of wp, nyt2, wsj
+* Michele download september content (when \_new is ready)
 * look again for differences in newspaper style (e.g. manuals)
-* make backups of wp, nyt2, wsj
-* download september content when \_new is ready)
 
 ## September 26, 2018
 ### Meeting
