@@ -12,6 +12,9 @@
 * Michele: make backups of wp, nyt2, wsj
 * Michele download september content (when \_new is ready)
 * look again for differences in newspaper style (e.g. manuals)
+  * The Washington Post Deskbook on Style (can't find anything in print after 1989)
+  * The Wall Street Journal Guide to Business Style and Usage (can't find anything in print after 2002)
+  * The New York Times Manual of Style and Usage (apparently an epub version from 2015 is available)
 
 ## September 26, 2018
 ### Meeting
