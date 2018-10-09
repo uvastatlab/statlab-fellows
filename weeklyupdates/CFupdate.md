@@ -9,6 +9,10 @@
     * teach ggplot2 workshop (2018-10-03)
     * Review/Revise Bayesian data analysis workshop (teach on 2018-10-18)
     * Wrote up instructions for getting started with `boxr` package for working directly with files on box.com: https://github.com/uvastatlab/statlab-fellows/blob/master/resources/using_boxr.md
+    * working through data camp course: Bayesian Regression Modeling with rstanarm
+    
+* Admin:
+    * out of office Thurs, Oct 11 - Mon, Oct 15
 
 
 ## 2018-10-02
