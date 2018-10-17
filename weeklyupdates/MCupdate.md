@@ -1,3 +1,23 @@
+## 2018-10-19
+* Admin:
+* Consults:
+* Research: 
+
+## 2018-10-12
+* Admin: phone call with city contact
+* Consults: atlas - interview group, survey group, focus group feedback; 
+* Research: submitted draft purpose, data request to Cville DSS; let's call develoing text analysis part 1 workshop research
+
+## 2018-10-5
+* Admin: atlas - contact city manager, logistics for Atlanta meeting; cps project - meet with Sue and Jenny, start data request
+* Consults: atlas - PJ Harris/Totem and Sarah Gaines/CNE, Erika V., feedback to survey group, interview group
+* Research: nada
+
+## 2018-09-28
+* Admin: added to project_tasks, review changes for Cville child welfare github
+* Consults: talk with DSS about spring project; atlas - feedback to focus group, survey group, and interview group
+* Research: nada
+
 ## 2018-09-21
 * Admin: work with Charlotte to clean up PIDL2018 github for child welfare report; made slight revision to child welfare report before it goes to city council; added to project_tasks on repo; added reference articles to resources for new project_tasks items.
 * Consults: Holly/Sarah for equity atlas, architecture student groups for equity atlas.
