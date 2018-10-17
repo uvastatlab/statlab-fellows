@@ -7,7 +7,10 @@
 * Blog post updates?
 
 ### Up next
-* fill in at/after meeting
+* fill in at/after meeting: 
+* check lexis-nexis for fox transcripts...
+* leah and michele get boxr setup
+* michele will update box accesss -- only folders containing text data are shared, rest of work will be pulled from/updated on github
 
 ## October 3, 2018
 ### Meeting
