@@ -1,3 +1,15 @@
+## 2018-10-17
+#### Consultations
+laura : doctoral student in Curry, Help with different factor analysis techniques
+#### Research/ Learning:
+created copies of files for complexityNews.R and ExploreNews.R that uses boxR for loading the files and creating the corpus objects. Continue to work on the reframing the corpus at the sentence level.
+
+## 2018-10-10
+#### Consultations
+* Julia:  PhD candidate, Anthropology department. Help with analyzing the artifact data that collected
+#### Research/ Learning:
+trying to set up the system locally. Unable to find qcorpus2 data variable. Resolving several other dependencies to run Complexit.R script
+
 ## 2018-10-03
 #### Research/ Learning:
 * learning R
