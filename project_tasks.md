@@ -16,6 +16,7 @@ In the shared Box folder, you can find the files containing the downloaded news 
   * Sofia
 
 * Update `sentimentNews.R` and `sentimentNews_sent.R` to try the [Lexicoder Sentiment Dictionary](http://www.lexicoder.com/index.html), implemented in `quanteda` in late 2017 ([see here](https://quanteda.io/reference/data_dictionary_LSD2015.html)). Evaluation of sentiment results generated from lexicoder, sentimentr, and bing dictionaries -- e.g., face validity, do sample articles/sentences scored as highly negative or positive read as such? 
+	* Aycan
 
 * Generate `policyNews.R` and `policyNews_sent.R` (beginning with output of `sentimentNews.R` and `sentimentNews_sent.R`) to implement policy/issue attention in articles using the Lexicoder Topic Dictionary. Evaluation of results -- e.g., to sample articles/sentences scored highly on major topics appear to be correctly assigned?
 

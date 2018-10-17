@@ -1,3 +1,8 @@
+10/10 
+
+* Completed the R file - it has boxr integration to uvabox/presidencyproject/newspaper folder. If ran currently, it will create quanteda files for the folders nyt, wp, wsj (ones that have already been created). But during this process, the code will also create nytnew, wpnew, wsjnew folders. If we would like to give the code a try, we should download news articles from these newspapers through August 1 to September 30, 2018 in nytnew, wpnew and wsjnew folders to double check that it works. Final product is saved in newspapercomp.Rdata in workspaceR
+
+
 10/02
 
 * Working on the R file 
