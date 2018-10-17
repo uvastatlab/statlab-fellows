@@ -1,3 +1,16 @@
+## 10-10-2018
+* Blog post:
+  * Discovered there is a lot out there already about quanteda. Thinking I might tailor my blog post to be about one particular use? Or pull together what was useful to me from different sources? I don't want to repeat content, but still think the blog post could be useful
+  
+* Tweeted at NYT, WP, and WSJ to see if they have a publicaly available style guide--because why not!
+   * Just running different checks might be the most possible solution on this
+ 
+* Tried to implement boxr on readNews.R
+  * Was returned with "empty directory" after the first initial commands seemed to work
+* Tried to implement boxr on exploreNews.R
+  * Says that there is an unexpected symbol
+  * Maybe because R files aren't currently supported?
+
 ## 10-03-2018
 * Blog post: 
    * Using quanteda as a beginner
