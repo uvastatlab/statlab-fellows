@@ -1,12 +1,12 @@
 ## 2018-10-19
 * Admin:
-* Consults:
-* Research: 
+* Consults: atlas - interview group, focus group feedback; 
+* Research: text analysis 1 workshop; acquired twitter and newspapers through September 2018; update cable news through September 2018
 
 ## 2018-10-12
 * Admin: phone call with city contact
 * Consults: atlas - interview group, survey group, focus group feedback; 
-* Research: submitted draft purpose, data request to Cville DSS; let's call develoing text analysis part 1 workshop research
+* Research: submitted draft purpose, data request to Cville DSS; let's call developing text analysis part 1 workshop research
 
 ## 2018-10-5
 * Admin: atlas - contact city manager, logistics for Atlanta meeting; cps project - meet with Sue and Jenny, start data request
