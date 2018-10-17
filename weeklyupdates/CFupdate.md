@@ -1,3 +1,18 @@
+## 2018-10-17
+
+* Consultations:
+    * Kinesiology Faculty; once again helping out with a study that requires a bit more work than usual. There’s potential to be a co-author. We’ll see. Grant-funded work. Spent most of the day Monday cleaning and exploring the data. 
+    * Engineering grad student; some help with using and interpreting model selection criteria.
+    * Nursing PhD candidate (drop in). Help with running multiple imputation on subsets of her data.
+    * Architecture, Visiting Scholar (drop-in); help with running many regressions on subsets of her data; showed her how to use lapply           
+    * Ph.D. Student, Civil Engineering; help with reading Qualtrics CSV files into R and some various debugging of R code chunks.
+    * Curry PhD candidate; some help and advice with interpreting results of a factor analysis and pairwise comparison of means after ANOVA.
+
+* Research/Learning:
+    * Back up Michele's Text Analysis Part 1 workshop
+    * Review/Revise Bayesian data analysis workshop (teach on 2018-10-18)
+
+
 ## 2018-10-09
 * Consultations: 
     * PhD candidate, Curry (2x). Help implementing and interpreting random-intercept model in SPSS. Did this using Zoom, which I must say was very easy. Much more pleasant than using Skype. Consulted again over email regarding some follow-up questions about evaluating model assumptions
