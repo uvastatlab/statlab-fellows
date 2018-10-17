@@ -17,10 +17,10 @@
 
 ### Up next
 * Clay: check into pcorpus or vcorpus -- would it be more efficient to use pcorpus, and where to change that in tm.plugin scripts...
-* All: adopt boxr in scripts we're working on
-* Michele: make backups of wp, nyt2, wsj
-* Michele download september content (when \_new is ready)
-* look again for differences in newspaper style (e.g. manuals)
+* adopt boxr in scripts we're working on (mpc hasn't done)
+* make backups of wp, nyt2, wsj (aycan did)
+* Michele download september content (when \_new is ready) (done, currently in "copy"
+* look again for differences in newspaper style (e.g. manuals) (leah did)
   * The Washington Post Deskbook on Style (can't find anything in print after 1989)
   * The Wall Street Journal Guide to Business Style and Usage (can't find anything in print after 2002)
   * The New York Times Manual of Style and Usage (apparently an epub version from 2015 is available)
