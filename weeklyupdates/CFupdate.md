@@ -5,7 +5,7 @@
     * Engineering grad student; some help with using and interpreting model selection criteria.
     * Nursing PhD candidate (drop in). Help with running multiple imputation on subsets of her data.
     * Architecture, Visiting Scholar (drop-in); help with running many regressions on subsets of her data; showed her how to use lapply           
-    * Ph.D. Student, Civil Engineering; help with reading Qualtrics CSV files into R and some various debugging of R code chunks.
+    * Ph.D. Student, Civil Engineering (drop-in); help with reading Qualtrics CSV files into R and some various debugging of R code chunks.
     * Curry PhD candidate; some help and advice with interpreting results of a factor analysis and pairwise comparison of means after ANOVA.
 
 * Research/Learning:
