@@ -1,5 +1,14 @@
 # Weekly Agenda and Schedule
 
+## October 17, 2018
+### Meeting
+* Project progress
+* Background on workshops
+* Blog post updates?
+
+### Up next
+* fill in at/after meeting
+
 ## October 3, 2018
 ### Meeting
 * Consultations, office hours -- issues?
