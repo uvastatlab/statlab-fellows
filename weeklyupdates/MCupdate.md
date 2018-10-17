@@ -1,7 +1,7 @@
 ## 2018-10-19
 * Admin:
 * Consults: atlas - interview group, focus group feedback; 
-* Research: text analysis 1 workshop; acquired twitter and newspapers through September 2018; update cable news through September 2018
+* Research: text analysis 1 workshop; acquired twitter and newspapers through September 2018; update cnn, msnbc news through September 2018 (still need to do fox news and pres docs)
 
 ## 2018-10-12
 * Admin: phone call with city contact
