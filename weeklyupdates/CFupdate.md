@@ -1,3 +1,35 @@
+## 2018-10-17
+
+* Consultations:
+    * Kinesiology Faculty; once again helping out with a study that requires a bit more work than usual. There’s potential to be a co-author. We’ll see. Grant-funded work. Spent most of the day Monday cleaning and exploring the data. 
+    * Engineering grad student; some help with using and interpreting model selection criteria.
+    * Nursing PhD candidate (drop in). Help with running multiple imputation on subsets of her data.
+    * Architecture, Visiting Scholar (drop-in); help with running many regressions on subsets of her data; showed her how to use lapply           
+    * Ph.D. Student, Civil Engineering (drop-in); help with reading Qualtrics CSV files into R and some various debugging of R code chunks.
+    * Curry PhD candidate; some help and advice with interpreting results of a factor analysis and pairwise comparison of means after ANOVA.
+
+* Research/Learning:
+    * Back up Michele's Text Analysis Part 1 workshop
+    * Review/Revise Bayesian data analysis workshop (teach on 2018-10-18)
+
+
+## 2018-10-09
+* Consultations: 
+    * PhD candidate, Curry (2x). Help implementing and interpreting random-intercept model in SPSS. Did this using Zoom, which I must say was very easy. Much more pleasant than using Skype. Consulted again over email regarding some follow-up questions about evaluating model assumptions
+    * PhD candidate Anthropology; conducted archaeological survey and excavations on a sugar plantation. Needs to analyze the artifact data she collected and wanted some guidance with the statistics. Talked about some different approaches as well as using ggplot to help create some basic visualizations. Sent her an R script to help her plot some means with error bars
+    * Psych faculty. Help iron out some issues with creating plots to demonstrate kurtosis. Also help modify an R function for calculating power to have a more descriptive title.
+    * Nursing PhD candidate. Questions about identifying and dealing with missing data. This is air quality data. I think she wants to impute missing data from certain stations with available data from nearby stations. I think. I’m still trying to figure out what exactly she wants. We’ve been doing this over email. Sent her some sample R code to help her get started exploring the missingness in her data.
+
+* Research/Learning:
+    * teach ggplot2 workshop (2018-10-03)
+    * Review/Revise Bayesian data analysis workshop (teach on 2018-10-18)
+    * Wrote up instructions for getting started with `boxr` package for working directly with files on box.com: https://github.com/uvastatlab/statlab-fellows/blob/master/resources/using_boxr.md
+    * working through data camp course: Bayesian Regression Modeling with rstanarm
+    
+* Admin:
+    * out of office Thurs, Oct 11 - Mon, Oct 15
+
+
 ## 2018-10-02
 * Consultations: 
     * Politics PhD candidate; Looking for advice getting started with text mining Chinese social media and identifying types of propaganda. Suggested she start with a small collection of text and start working on getting it into R/Python, creating a corpus, creating a TDM, summarizing features of the text, etc to see if she can do what she wants to do. 
@@ -9,7 +41,7 @@
 
 * Research/Learning: 
     * Review/Revise ggplot workshop (teach on 2018-10-03)
-    * Review/Revise Bayesian data (teach on 2018-10-18)
+    * Review/Revise Bayesian data analysis workshop (teach on 2018-10-18)
     * Investigate how to use `boxr` and `here` packages in R, potenitally for use with public presidency files
     * Investigate running obust linear regression with bootstrapped standard errors: https://gist.github.com/clayford/8912972554b8b44b0ff12d69660338c0
 
