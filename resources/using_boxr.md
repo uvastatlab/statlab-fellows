@@ -36,6 +36,7 @@ Instead of this....
 We can do this....   
 
 `library(boxr)`   
+`box_auth()`    
 `box_setwd(18051534353)`   
 `box_source(283963253938)`   
 
