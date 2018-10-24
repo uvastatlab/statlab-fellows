@@ -1,3 +1,21 @@
+## 2018-10-24
+
+* Consultations:
+    * PhD candidate at Darden. Had concerns about data not being normally distributed for a t-test. Pointed him to a journal article that explicitly addressed his concern. It showed through simulations that the Normality assumption was sufficient but not necessary for the validity of the t-test. https://www.annualreviews.org/doi/pdf/10.1146/annurev.publhealth.23.100901.140546 
+    * Visiting Scholar, Architecture; help with interpreting coefficients in a model with log-transformed response variable. Referred her to my blog post, https://data.library.virginia.edu/interpreting-log-transformations-in-a-linear-model/ Also provided help getting started with linear mixed-effect models
+    * PhD student, Sociology; help reshaping data in Stata
+    * Psych faculty; help with polishing barplot in base R graphics; also how to accomplish same plot with ggplot2 and jtools packages. 
+    * PhD student, chemistry; Help getting started with logistic regression and effects plots in R
+    * Curry faculty; more work on nutrition study, including data cleaning and some exploratory work.
+
+* Research/Learning:
+    * Bayesian Data Analysis workshop
+    * Back up Text Analysis part 1 workshop
+    * Read a good article by Gelman, Ethics in statistical practice and communication Five recommendations http://www.stat.columbia.edu/~gelman/research/published/SIGN_15(5)_09_InPractice_Gelman_EthicsAndComm.pdf   
+    * Started working through _Discrete Data Analysis with R_ book
+    * Working through DataCamp course, Scalable Data Processing in R
+
+
 ## 2018-10-17
 
 * Consultations:
