@@ -1,5 +1,12 @@
 # Weekly Agenda and Schedule
 
+## October 31, 2018
+### Meeting
+* Project progress (and revisit boxR) and learning
+* Workshop interest
+
+### Up next
+
 ## October 17, 2018
 ### Meeting
 * Project progress
