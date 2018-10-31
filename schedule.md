@@ -6,6 +6,9 @@
 * Workshop interest
 
 ### Up next
+* share wsjnew, wsj, nytnew, nyt, wpnew, wp, workspace; create workspace in twitter and share; create workspace in presdocs and share
+* need a separate file with helper functions for reading, writing; then if location of input or output changes, only the helper function needs to change
+* update webpage -- office hours end 12/6
 
 ## October 17, 2018
 ### Meeting
