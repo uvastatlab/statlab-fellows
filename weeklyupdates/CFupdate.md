@@ -1,3 +1,19 @@
+## 2018-10-31
+
+* Consultations:
+    * Curry faculty; more work on her nutrition study.
+    * Stat/Econ undergrad; walk-in. Help reshaping data in R. Very challenging consult that resulted in discovering the separate_rows function in tidyr. 
+    * Sociology PhD student; more help with data wrangling in Stata, also some help implementing and visualizing mixed-effect models 
+    * Nursing PhD student; help debugging an R function she wrote to download files from noaa.gov
+    * A little more stats help for my Rwandan client. 
+
+* Research/Learning:
+    * Spent considerable time looking into using the boxr and here packages for the presidency project.
+    * Completed Scalable Data Processing with R DataCamp course
+    * Working through _Discrete Data Analysis with R_ book. (Reported an error to the author)
+    * Started work on a StatLab blog post that explains how to assess Type S (sign) and Type M (magnitude) errors as outlined in Gelman and Carlin’s 2014 paper. I think it’s an interesting supplement to traditional power analysis. The paper is accessible, but I wanted to write a blog post that fills in gaps in the paper where the authors assume certain statistical concepts. 
+
+
 ## 2018-10-24
 
 * Consultations:
