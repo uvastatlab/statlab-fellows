@@ -1,3 +1,8 @@
+## 10-24-2018
+* Spent the week reading and trying things out with quanteda and Wordfish
+  * Still at a basic level, but slowly making progress
+  * This is for both my blog post and the Public Presidency project
+
 ## 10-10-2018
 * Blog post:
   * Discovered there is a lot out there already about quanteda. Thinking I might tailor my blog post to be about one particular use? Or pull together what was useful to me from different sources? I don't want to repeat content, but still think the blog post could be useful
