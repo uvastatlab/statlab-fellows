@@ -1,3 +1,37 @@
+## 2018-10-31
+
+* Consultations:
+    * Curry faculty; more work on her nutrition study.
+    * Stat/Econ undergrad; walk-in. Help reshaping data in R. Very challenging consult that resulted in discovering the separate_rows function in tidyr. 
+    * Sociology PhD student; more help with data wrangling in Stata, also some help implementing and visualizing mixed-effect models 
+    * Nursing PhD student; help debugging an R function she wrote to download files from noaa.gov
+    * A little more stats help for my Rwandan client. 
+
+* Research/Learning:
+    * Spent considerable time looking into using the boxr and here packages for the presidency project.
+    * Completed Scalable Data Processing with R DataCamp course
+    * Working through _Discrete Data Analysis with R_ book. (Reported an error to the author)
+    * Started work on a StatLab blog post that explains how to assess Type S (sign) and Type M (magnitude) errors as outlined in Gelman and Carlin’s 2014 paper. I think it’s an interesting supplement to traditional power analysis. The paper is accessible, but I wanted to write a blog post that fills in gaps in the paper where the authors assume certain statistical concepts. 
+
+
+## 2018-10-24
+
+* Consultations:
+    * PhD candidate at Darden. Had concerns about data not being normally distributed for a t-test. Pointed him to a journal article that explicitly addressed his concern. It showed through simulations that the Normality assumption was sufficient but not necessary for the validity of the t-test. https://www.annualreviews.org/doi/pdf/10.1146/annurev.publhealth.23.100901.140546 
+    * Visiting Scholar, Architecture; help with interpreting coefficients in a model with log-transformed response variable. Referred her to my blog post, https://data.library.virginia.edu/interpreting-log-transformations-in-a-linear-model/ Also provided help getting started with linear mixed-effect models
+    * PhD student, Sociology; help reshaping data in Stata
+    * Psych faculty; help with polishing barplot in base R graphics; also how to accomplish same plot with ggplot2 and jtools packages. 
+    * PhD student, chemistry; Help getting started with logistic regression and effects plots in R
+    * Curry faculty; more work on nutrition study, including data cleaning and some exploratory work.
+
+* Research/Learning:
+    * Bayesian Data Analysis workshop
+    * Back up Text Analysis part 1 workshop
+    * Read a good article by Gelman, Ethics in statistical practice and communication Five recommendations http://www.stat.columbia.edu/~gelman/research/published/SIGN_15(5)_09_InPractice_Gelman_EthicsAndComm.pdf   
+    * Started working through _Discrete Data Analysis with R_ book
+    * Working through DataCamp course, Scalable Data Processing in R
+
+
 ## 2018-10-17
 
 * Consultations:
