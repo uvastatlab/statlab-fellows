@@ -1,3 +1,10 @@
+## 2018-10-31
+#### Research/Learning:
+* Almost done with complexity News. There are a few bugs to be fixed so will push the code once fixed.
+* Researched quite a bit on the available libraries in python for the blog 
+* CWill continue to work on presidency project
+
+
 ## 2018-10-17
 #### Consultations
 laura : doctoral student in Curry, Help with different factor analysis techniques
