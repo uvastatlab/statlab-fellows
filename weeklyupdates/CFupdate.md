@@ -1,3 +1,19 @@
+## 2018-11-07
+
+* Consultations:
+    * Curry faculty; wanted to learn about services we provide. He typically does qualitative work but is moving into some quantitative analysis. I gave him some examples of how we’ve helped other Curry faculty and students. It sounds like he may be in touch in December or early next year.
+    * Curry PhD student; help resolving errors and warnings with mixed-effect models in SPSS. For her dissertation. 
+    * Curry faculty; More work on her recent nutrition study. Data wrangling, descriptive stats and some inference.
+    * Darden PhD student; help getting started with meta-analysis. Leah sat in on this one. Ran meta-analysis for him in R using the meta package; replicated results in a special program his advisor suggest he use called Comprehensive Meta Analysis. In a follow-up email he asked me to run two more meta-analyses for him. 
+    * Sociology PhD student; help reshaping data in Stata and specifying mixed effect models with interactions
+
+* Research/Learning:
+    * Prep for teaching SPSS/stats refresher to architecture professor's class. 
+    * Published StatLab blog post, Assessing Type S and Type M Errors: https://data.library.virginia.edu/assessing-type-s-and-type-m-errors/ 
+    * Completed DataCamp Course Building Web Applications in R with Shiny. I’ve built a couple of little Shiny apps in the past but I have forgotten just about everything I learned. I wanted to make another run at it and see if I can get it to stick this time. 
+
+
+
 ## 2018-10-31
 
 * Consultations:
