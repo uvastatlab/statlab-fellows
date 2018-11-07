@@ -1,8 +1,16 @@
+## 2018-11-07
+#### Consultations
+Cindy : RA in economics department, Helped with reshaping the data using python
+#### Research/Learning:
+* learnt to use the pandas library to help cindy fix her problem by loading into the data frame and preprocessing the data of splitting the single row entry into multiple columns.
+* Will be adding the things learnt to the blog as well
+* Will continue to work on presidency project
+
 ## 2018-10-31
 #### Research/Learning:
 * Almost done with complexity News. There are a few bugs to be fixed so will push the code once fixed.
 * Researched quite a bit on the available libraries in python for the blog 
-* CWill continue to work on presidency project
+* Will continue to work on presidency project
 
 
 ## 2018-10-17
