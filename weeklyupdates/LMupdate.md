@@ -1,3 +1,7 @@
+## 11-7-2018
+* Working on finishing blog post
+* Need to review with Clay to see if in acceptable format/covering enough
+
 ## 10-24-2018
 * Spent the week reading and trying things out with quanteda and Wordfish
   * Still at a basic level, but slowly making progress
