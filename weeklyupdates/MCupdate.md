@@ -1,3 +1,23 @@
+## 2018-11-16 (in progress)
+* Admin: 
+* Consults: 
+* Research: text analysis 3 worskhop; 
+
+## 2018-11-09
+* Admin: phd plus proposal, circulate and send; 
+* Consults: budget analysis with Clay for dean; 
+* Research: Public interest data lab - call with VA DSS research department; fix nyt, get oct tweets, implement boxr on tweet file; text analysis 3 workshop prep
+
+## 2018-11-02
+* Admin: start spring workshop planning (including PhD Plus proposal)
+* Consults: staff doing program evaluation; text analysis resources; trouble-shooting cluster analysis in r; atlas work session, meetings, and feedback to PLAN 6020 groups
+* Research: text analysis 2 workshop; public interest data lab (recruit, add description to class list, talked with CVille DSS
+
+## 2018-10-26
+* Admin:
+* Consults: mostly equity atlas (IMLS meeting, United Way meeting, PLAN 6020 groups)
+* Research: started text analysis 2 workshop
+
 ## 2018-10-19
 * Admin:
 * Consults: atlas - interview group, focus group feedback; 
