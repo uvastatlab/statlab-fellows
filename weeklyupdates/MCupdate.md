@@ -1,7 +1,7 @@
 ## 2018-11-16 (in progress)
-* Admin: 
-* Consults: 
-* Research: text analysis 3 worskhop; 
+* Admin: workshop planning
+* Consults: equity atlas (class, survey group, cville tomorrow, outreach)
+* Research: text analysis 3 worskhop; get oct cnn and msbnc transcripts (presdocs not yet complete through october on gpo site)
 
 ## 2018-11-09
 * Admin: phd plus proposal, circulate and send; 
