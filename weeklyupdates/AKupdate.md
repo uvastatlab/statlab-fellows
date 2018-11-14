@@ -1,3 +1,15 @@
+11/14 
+* Prepared sentimentNews_R to include lexicode dictionary 
+1) There are differences between bing and lexicode - will present the differences in general tone between the two 
+2) Ask about graphs - the current graphs are not very explanatory of changing sentiment - the sentiment doesn't fluctuate much 
+3) Opeds might be a better place to look for sentiment 
+4) Should we do text preparation - trimming, removing of stop words? 
+5) Will try lexicode by removing negations 
+6) # Need to output the text of each article in the corpus to separate file in common folder (e.g., writeCorpus from tm) - what does this mean? 
+7) Will try to find an alternative way to compare sample document most positive and negative tones from bing and lexicode 
+
+* Will push newsRead_R later today
+
 10/30 
 
 * Was going to push the R file, but I realized box stopped working for me - is trying to solve this issue
