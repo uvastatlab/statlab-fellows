@@ -1,3 +1,22 @@
+## 2018-11-14
+
+* Consultations:
+    * Curry faculty; more data analysis on NSF summer study. I think this may be winding down.
+    * Curry staff. Help with scatter plots and ANCOVA in SPSS.
+    * Darden PhD candidate; help extracting fixed and random effect errors from meta-analysis object in R.
+    * Library staff. With MPC. Modeling materials expenditures as a function of other statistics such as PhDs awarded and number of students. 
+    * Curry staff; help running hypothesis tests to compare proportions in SPSS. Oddly enough SPSS doesn’t include an easy way to do a traditional comparison like you can do with prop.test in R. Had to refer her to a web app get the values she wanted. (she was not interested in using R and I didn’t have the expertise to gin it up with SPSS syntax). 
+    * Nursing PhD student; tried debugging her R code but without success. She was a walk in. Using a package to interface to a 3rd party software program to download and process environmental data. The problem seems to be with the type of data she’s using. It appears to be different from what is used in the package examples. We’ll probably meet again.
+    * Research Fellow, Allergy & Immunology. Help creating a split-violin plot for a paper in response to reviewer’s request. Used the beanplot package.
+    * Psych faculty; this has turned into a weekly session where I answer random R questions usually involving graphics. Teaches stats in the Psych department and is a long time SPSS user. She’s getting into R and every week has more questions about trying to create certain graphs or automate certain tasks.
+    
+* Research/Learning:
+   * Teach Intro to SPSS/stats refresher to architecture professor's class
+   * Added a link to my Intro to R Markdown materials on past workshops page. I had prepared some slides but then didn’t use them in the workshop. Seemed silly to let them go to waste so I posted them. https://static.lib.virginia.edu/statlab/materials/workshops/rmd_pres_htm.html 
+    * Work through another Shiny tutorial: http://zevross.com/blog/2016/04/19/r-powered-web-applications-with-shiny-a-tutorial-and-cheat-sheet-with-40-example-apps/  
+    * Completed DataCamp course: Building Web Applications in R with Shiny: Case Studies. 
+
+
 ## 2018-11-07
 
 * Consultations:
