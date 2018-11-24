@@ -1,4 +1,12 @@
-## 2018-11-16 (in progress)
+## 2018-11-30
+
+
+## 2018-11-23
+* Admin: spring workshop planning, phd+ module planning, staff stuff, library in physics stuff
+* Consults: none
+* Research: downloaded october presdocs; fixed september NYT, edited readNews, downloaded October NYT, WP, WSJ and read them in (newspaper.Rdata updated); re-ran exploreNews.R, made some edits, newspaperExplore.Rdata updated)
+
+## 2018-11-16
 * Admin: workshop planning
 * Consults: equity atlas (class, survey group, cville tomorrow, outreach)
 * Research: text analysis 3 worskhop; get oct cnn and msbnc transcripts (presdocs not yet complete through october on gpo site)
