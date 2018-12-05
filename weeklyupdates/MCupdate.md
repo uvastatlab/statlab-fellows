@@ -1,5 +1,7 @@
 ## 2018-11-30
-
+* Admin: Workshops -- lots of planning, emailing, coordinating, finalizing; Phd+ module -- planning, investigating data
+* Consults: equity atlas (survey group, outreach to TJACH
+* Research: updated fox scraper and collected through Oct, updated scrapers for CNN and MSNBC to collect additional transcripts, supplement fox news with factiva
 
 ## 2018-11-23
 * Admin: spring workshop planning, phd+ module planning, staff stuff, library in physics stuff
