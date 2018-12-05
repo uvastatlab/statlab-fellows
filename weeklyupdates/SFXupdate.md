@@ -1,5 +1,5 @@
-##2018-12-05
-####Research/Learning:
+## 2018-12-05
+#### Research/Learning:
 * Experimented with various options for the complexityNews.R to breakdown the corpus into corpus of sentences. I spent several hurs trying to get openNLP library on Rstudio but it had a dependency on rJava which was machine specific and could not be resolved. I also used tokenizer library to break into sentences but it only worked for simple corpus. Finally I was able to achieve the breakdown using 'tm' library by reshaping it but qmeta2 the docvarsof the parent gets copied as is to the sentence level and I am not sure if that makes sense like that. if not then I would need to reshape the docvars of the corpus too.
 * I am also working on the blog which I exepect to be done over the weekend.
 
