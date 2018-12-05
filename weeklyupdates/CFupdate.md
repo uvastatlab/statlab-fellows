@@ -1,3 +1,21 @@
+## 2018-12-05
+
+* Consultations:
+    * EnviSci Undergrad; help with data wrangling in SPSS (how to derive new variables, delete cases, add variable levels, etc.) For PLAN 5892, Psychology of Environment and Space
+    * Nursing PhD candidate; help with ggplot2 (walk in)
+    * Architecture undergrad; help with SPSS for research project. For PLAN 5892, Psychology of Environment and Space
+    * Urban Planning undergrad, help with interpreting correlations for research project (walk in). For PLAN 5892, Psychology of Environment and Space
+    * Sociology PhD candidate; help with class project. Her instructor had her do multiple imputation using a program called Blimp, which she then had to append to her original Stata data and then set up as mi. Helped her with this task. Leah sat in.
+    * Curry faculty; help with sample size analysis for LOI she’s submitting. 
+    * Psych Faculty; intro to creating shiny apps. 
+
+* Research/Learning:
+    * Meet with MP and JH about PhD Plus data science track for spring
+    * Review and publish Leah’s StatLab quanteda blog post: https://data.library.virginia.edu/a-beginners-guide-to-text-analysis-with-quanteda/
+    * Update predictionEllipse function in statlab blog post per email request to accommodate factors in model: https://data.library.virginia.edu/getting-started-with-multivariate-multiple-regression/
+
+
+
 ## 2018-11-14
 
 * Consultations:
