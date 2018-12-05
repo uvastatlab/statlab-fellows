@@ -1,3 +1,9 @@
+12/05
+
+* Working on blog post - will be ready by next week 
+* Thought about research questions for the project 
+* Should I push sentiment.R? 
+
 11/14 
 * Prepared sentimentNews_R to include lexicode dictionary 
 1) There are differences between bing and lexicode - will present the differences in general tone between the two 
