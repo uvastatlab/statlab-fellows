@@ -1,3 +1,20 @@
+## 2019-02-06
+* Consultations:
+    * Research scientist, SEAS. Help with setting up and analyzing data from a stratified cluster sample. Gave him some code to specify the survey design in R. (met twice: once by email; once in person)
+    * Curry PhD candidate and faculty; Some advice and guidance on performing a model-based cluster analysis.
+    * Research scientist, Biomedical Engineering; Help getting started with R. Showed him how to read in his data and make heat maps, which is what he wanted to do. He had been doing it by hand in Excel, so he as very happy to see how easy it was in R.
+    * Econ 4th year; help reading in American Time User Survey data into R
+    * Psych PhD candidate; help with creating effect plots. Having trouble with the lattice plots the effects package creates so we made a data frame and took care of it with ggplot.
+    * Anthropology PhD candidate; help with comparing proportions using chi-square tests and proportion tests and creating and understanding mosaic plots.
+    * Walk-in-Consultation: Nursing PhD student; help with understanding R code for statistics class she's taking
+    * Walk-in Consultation: Econ Undergrad; help with Stata data wrangling
+ 
+* Research/Learning:
+    * Teach ggplot2 workshop
+    * Preparations for shiny and visualizing models workshops
+    * Met with SOMRC to learn more about how we might be able to use their DC/OS Mesos platform: https://somrc.virginia.edu/project/infrastructure/ 
+    * Formally collected some of my shiny apps that I use in consultations into an R package that I've named consultr: https://github.com/clayford/consultr; SOMRC showed me how they can host a shiny server for them
+
 ## 2018-12-05
 
 * Consultations:
