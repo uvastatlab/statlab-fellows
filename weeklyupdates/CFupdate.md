@@ -1,3 +1,18 @@
+## 2019-02-13
+* Consultations:
+    * research scientist, SEAS. Seeking advice on power and sample size analysis
+    * PhD candidate anthropology; help generating bootstrap confidence intervals for mean ceramic dates. Then another consultation for plotting the confidence intervals
+    * commerce faculty. Matching request. Created matched samples using MatchIt package and included a report on the matching improvement. 
+    * staff. help with rate models. For master’s thesis. Person had never done rate models before and was looking for some assistance. I provided R code that replicated a rate model example in Agresti’s CDA book. 
+    * Biomedical engineering staff; help with calculating power for a 2-way crossover study; Wrote a script that also estimates power via simulation
+    
+* Research/Learning:
+   * Meet with SOMRC re: DC/OS Mesos: https://somrc.virginia.edu/project/infrastructure/ 
+   * Workshop preparations: VMRC
+   * Teach ggplot2 workshop
+   * Read a good article and shared with RDS team: https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535 
+
+
 ## 2019-02-06
 * Consultations:
     * Research scientist, SEAS. Help with setting up and analyzing data from a stratified cluster sample. Gave him some code to specify the survey design in R. (met twice: once by email; once in person)
