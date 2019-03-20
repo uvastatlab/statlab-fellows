@@ -14,13 +14,15 @@ In the shared Box folder, you can find the files containing the downloaded news 
 
 * Test policy position of text using [Laver and Garry's WordStat dictionary](https://provalisresearch.com/products/content-analysis-software/wordstat-dictionary/laver-garry-dictionary-of-policy-position/), availale as part of the quanteda.dictionaries package. Again, I don't expect this to work very well -- having been developed for party platform-style texts using UK parties. Could a Laver-Garry style dictionary be built for this case (e.g., using party platforms to identify keywords)?
 
+* Evaluation of results from `stmTopicModelNews.R` and implementing `topicModelNews.R` (e.g., in Rivanna) and evaluating results. Do topics make sense; is k too big, too small? 
+
 * Start named entity recognition process (might be better in Python?): in particular, extracting persons, organizations, and geographical or geopolitical entities is key. I'm less clear on how we want to store this -- it won't be as neatly structured as the other attributes extracted from the text so far. But in addition to including this in the larger feature data frame eventually, the entitites also lend themselves to other analytic approaches (e.g., networks). For some sources
 
 
-  
 ## Additional Sources
 
 * Look into possibility of scraping key internet news sites on right and left. First need to identify/justify what are key native digital news sites on right/left; e.g., Politico, Breitbart, or something else, selected by audience size/ideological center. May or may not be able to acquire from January 20, 2017 on, but could we at least set up something going forward?
+
 
 ## Cable News
 
@@ -31,6 +33,7 @@ In the shared Box folder, you can find the files containing the downloaded news 
 * Further consideration of topictiling, initially whether the transcripts themselves have info that could help identify how many distinct segments are contained in the show; or possibly using Vanderbilt News Archive's story count for available shows (not many overlap).
 
 * Further implementation of topictiling, figure out how to containerize the process (via singularity) to run on the cluster. And evaluation.
+
 
 ## Presidential Documents
 
